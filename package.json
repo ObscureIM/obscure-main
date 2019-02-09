@@ -1,0 +1,32 @@
+{
+  "name": "obscure-home",
+  "version": "1.0.0",
+  "description": "Mainwebsite for obscure",
+  "main": "init.js",
+  "scripts": {
+    "test": "node init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObscureIM/obscure-main.git"
+  },
+  "keywords": [
+    "obscure",
+    "cryptocurrency",
+    "privacy",
+    "forknote"
+  ],
+  "author": "PausCrypto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ObscureIM/obscure-main/issues"
+  },
+  "homepage": "https://github.com/ObscureIM/obscure-main#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "forever": "^0.15.3",
+    "node": "^11.9.0",
+    "requests": "^0.2.2",
+    "util": "^0.11.1"
+  }
+}
