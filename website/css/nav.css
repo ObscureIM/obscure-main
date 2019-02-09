@@ -62,7 +62,7 @@
   color: white;
   transition: 0.2s ease;
   box-shadow: rgba(65, 45, 178, 0.24) 1px 13px 35px;
-  background: linear-gradient(-60deg, rgba(68, 178, 233, 0.88) 0%, rgba(197, 41, 181, 0.88) 100%, rgba(197, 41, 181, 0.88) 102%); }
+  background: linear-gradient(-60deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 1) 100%, rgba(255, 255, 255, 1) 102%); }
   .gradient-btn:hover, .gradient-btn:active, .gradient-btn:focus {
     color: white;
     filter: brightness(115%);
@@ -1212,7 +1212,7 @@
     height: inherit;
     max-height: 100%; }
   .wallet-column .item-details-group {
-    background: #7D5AB5;
+    background: #ffffff;
     padding: 23px;
     border-radius: 0 0 8px 8px; }
     .wallet-column .item-details-group h3 {
@@ -1224,7 +1224,9 @@
     margin: 0;
     margin-top: 20px;
     margin-bottom: 24px;
-    min-height: 75px; }
+    min-height: 75px;
+    color: #000000}
+
   @media (max-width: 678px) {
     .wallet-column .item-text p {
       min-height: unset; } }
