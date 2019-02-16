@@ -1212,7 +1212,7 @@
     height: inherit;
     max-height: 100%; }
   .wallet-column .item-details-group {
-    background: #ffffff;
+    background: #6989d8;
     padding: 23px;
     border-radius: 0 0 8px 8px; }
     .wallet-column .item-details-group h3 {
@@ -2544,7 +2544,7 @@ a:hover, a:active, a:focus, a:visited {
 
 .wallet-column .item-icon {
   padding: 0;
-  max-height: 80%;
+  max-height: 100%;
   align-self: center; }
 
 .wallet-column .item-card {
