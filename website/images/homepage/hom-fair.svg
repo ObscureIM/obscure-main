@@ -1,1 +1,33 @@
-<svg viewBox="0 0 70 70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="objectBoundingBox" x1=".5" x2=".5" y2="1"><stop offset="0" stop-color="#004aff" stop-opacity="0"/><stop offset="1" stop-color="#004aff"/></linearGradient><path d="m0 0h70v70h-70z" fill="none"/><path d="m23.333 0a23.333 23.333 0 1 1 -23.333 23.333 23.333 23.333 0 0 1 23.333-23.333z" fill="url(#a)" opacity=".12" transform="translate(23.333 11.667)"/><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"><path d="m54.49 28.549h-19.874" stroke="#7d5ab5"/><path d="m946.6 3139.7a9.962 9.962 0 0 0 19.918 0" stroke="#7d5ab5" transform="translate(-911.984 -3111.151)"/><path d="m966.474 3118.508-9.959-16.308-9.915 16.308" stroke="#7d5ab5" transform="translate(-911.984 -3089.959)"/><path d="m44.575 12.24h-13.09" stroke="#7d5ab5"/><path d="m889.218 3139.7a9.962 9.962 0 0 1 -19.918 0" stroke="#7d5ab5" transform="translate(-868.3 -3111.151)"/><path d="m1 28.549h19.918" stroke="#7d5ab5"/><path d="m869.3 3118.508 9.959-16.308 9.959 16.308" stroke="#7d5ab5" transform="translate(-868.3 -3089.959)"/><path d="m10.915 12.24h13.09" stroke="#7d5ab5"/><path d="m27.658 16.111v33.356" stroke="#009bff"/><path d="m17.699 49.466h19.961v5.958h-19.961z" stroke="#7d5ab5"/><path d="m13.046 55.424h29.268v6.48h-29.268z" stroke="#7d5ab5"/><ellipse cx="27.658" cy="12.24" rx="3.827" ry="3.87" stroke="#009bff"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595px" height="842px" viewBox="0 0 595 842" enable-background="new 0 0 595 842" xml:space="preserve">
+<path fill="none" d="M0,123.5h595v595H0V123.5z"/>
+<g>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M463.165,366.167H294.236"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M294.235,366.166c1.151,46.752,39.983,83.721,86.735,82.568c45.133-1.111,81.457-37.438,82.567-82.568"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M463.165,366.166l-84.651-138.619l-84.278,138.619"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M378.888,227.54H267.623"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M177.803,366.166c-1.15,46.752-39.983,83.721-86.735,82.568C45.936,447.623,9.611,411.299,8.5,366.166"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M8.5,366.167h169.303"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M8.5,366.166l84.651-138.619l84.651,138.619"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M92.777,227.54h111.265"/>
+	<path fill="none" stroke="#666666" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M235.093,260.443V543.97"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M150.441,543.961H320.11v50.643H150.441V543.961z"/>
+	<path fill="none" stroke="#333333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M110.891,594.604h248.778v55.08H110.891V594.604z"/>
+	
+		<ellipse fill="none" stroke="#666666" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="235.093" cy="227.54" rx="32.53" ry="32.895"/>
+</g>
+</svg>

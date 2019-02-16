@@ -1,48 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
-  <defs>
-    <style>
-      .cls-1, .cls-3, .cls-4 {
-        fill: none;
-      }
-
-      .cls-2 {
-        opacity: 0.12;
-        fill: url(#linear-gradient);
-      }
-
-      .cls-3 {
-        stroke: #7d5ab5;
-      }
-
-      .cls-3, .cls-4 {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-miterlimit: 10;
-        stroke-width: 2px;
-      }
-
-      .cls-4 {
-        stroke: #009bff;
-      }
-    </style>
-    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
-      <stop offset="1" stop-color="#004aff"/>
-    </linearGradient>
-  </defs>
-  <g id="hom-governance" transform="translate(-264 -3183)">
-    <rect id="Rectangle_1063" data-name="Rectangle 1063" class="cls-1" width="70" height="70" transform="translate(264 3183)"/>
-    <path id="Path_3392" data-name="Path 3392" class="cls-2" d="M23.333,0A23.333,23.333,0,1,1,0,23.333,23.333,23.333,0,0,1,23.333,0Z" transform="translate(287.333 3195)"/>
-    <g id="Group_3577" data-name="Group 3577" transform="translate(-886.889 3045.6)">
-      <path id="Path_1011" data-name="Path 1011" class="cls-3" d="M1200.51,168.92v-3.49l-4.953-4.248v-12.82h-10.7v3.793l-8.4-7.055L1152.4,165.43V169.3" transform="translate(0)"/>
-      <path id="Path_1012" data-name="Path 1012" class="cls-3" d="M1163.161,166.1l15-13.5,16.329,13.5" transform="translate(-1.739 -0.293)"/>
-      <g id="Group_768" data-name="Group 768" transform="translate(1157.862 171.134)">
-        <path id="Path_1013" data-name="Path 1013" class="cls-4" d="M1155.6,179.708s9.179,18.889,15.02,8.117S1155.6,179.708,1155.6,179.708Z" transform="translate(-1155.6 -179.418)"/>
-        <path id="Path_1014" data-name="Path 1014" class="cls-4" d="M1200.281,182.772s-20.937-1.593-14.565,8.876S1200.281,182.772,1200.281,182.772Z" transform="translate(-1161.805 -180.207)"/>
-        <path id="Path_1015" data-name="Path 1015" class="cls-4" d="M1163,183.5s14.565,9.179,14.565,25.11" transform="translate(-1156.628 -180.404)"/>
-        <path id="Path_1016" data-name="Path 1016" class="cls-4" d="M1193.779,187.1s-12.213,7.586-13.579,13.579" transform="translate(-1160.765 -181.273)"/>
-      </g>
-      <path id="Path_1010" data-name="Path 1010" class="cls-3" d="M1152.4,198v14.11h48.11V198.531" transform="translate(0 -12.77)"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595px" height="842px" viewBox="0 0 595 842" enable-background="new 0 0 595 842" xml:space="preserve">
+<g id="hom-governance" transform="translate(-264 -3183)">
+	<g id="Group_3577" transform="translate(-886.889 3045.6)">
+		<path id="Path_1011" fill="none" stroke="#000000" stroke-width="13" stroke-miterlimit="10" d="M1572.667,528.821v-29.665
+			l-42.103-36.108v-108.97h-90.949v32.24l-71.4-59.967l-204.484,172.805v32.895"/>
+		<path id="Path_1012" fill="none" stroke="#000000" stroke-width="13" stroke-miterlimit="10" d="M1240.419,502.361l127.5-114.75
+			l138.797,114.75"/>
+		<g id="Group_768" transform="translate(1157.862 171.134)">
+			<path id="Path_1013" fill="none" stroke="#666666" stroke-width="13" stroke-miterlimit="10" d="M52.297,378.971
+				c0,0,78.021,160.557,127.67,68.995C229.617,356.404,52.297,378.971,52.297,378.971z"/>
+			<path id="Path_1014" fill="none" stroke="#666666" stroke-width="13" stroke-miterlimit="10" d="M379.343,398.309
+				c0,0-177.965-13.54-123.802,75.446C309.704,562.741,379.343,398.309,379.343,398.309z"/>
+			<path id="Path_1015" fill="none" stroke="#666666" stroke-width="13" stroke-miterlimit="10" d="M106.458,402.823
+				c0,0,123.802,78.021,123.802,213.437"/>
+			<path id="Path_1016" fill="none" stroke="#666666" stroke-width="13" stroke-miterlimit="10" d="M332.917,426.036
+				c0,0-103.812,64.479-115.422,115.421"/>
+		</g>
+		<path id="Path_1010" fill="none" stroke="#000000" stroke-width="13" stroke-miterlimit="10" d="M1163.733,667.457v119.937
+			h408.935V671.97"/>
+	</g>
+</g>
 </svg>

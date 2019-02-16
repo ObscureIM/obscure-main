@@ -62,7 +62,7 @@
   color: white;
   transition: 0.2s ease;
   box-shadow: rgba(65, 45, 178, 0.24) 1px 13px 35px;
-  background: linear-gradient(-60deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 1) 100%, rgba(255, 255, 255, 1) 102%); }
+  background: linear-gradient(-60deg, rgba(0, 0, 0, 1) 0%,rgba(105, 137, 216, 1) 100%, rgba(105, 137, 216, 1) 102%); }
   .gradient-btn:hover, .gradient-btn:active, .gradient-btn:focus {
     color: white;
     filter: brightness(115%);
@@ -939,7 +939,7 @@
   grid-template-columns: 1fr 1fr;
   grid-template-areas: "image text" "image text";
   min-width: 100vw;
-  background: linear-gradient(90deg, #6989D8 -50%, #9A55C5 150%); }
+  background: linear-gradient(90deg, #6989D8 -50%, #4a4a4a 150%); }
   .hero-section a {
     margin-top: 36px; }
   .hero-section .hero-img {
