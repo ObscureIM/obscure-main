@@ -818,7 +818,7 @@
         Shortcodes
 *****************************/
 .center-text-cta-section {
-  background-color: #7D5AB5;
+  background-color: #343434;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -844,7 +844,7 @@
   .center-text-cta-section.light-style {
     background-color: #FAFAFA; }
     .center-text-cta-section.light-style .title {
-      color: #7D5AB5; }
+      color: #343434; }
     .center-text-cta-section.light-style .inner-text {
       color: #404040; }
 
@@ -857,11 +857,11 @@
 .contrib-list {
   padding: 80px 0; }
   .contrib-list .contrib-list-title {
-    color: #7D5AB5;
+    color: #343434;
     font-size: 40px;
     margin: 0 0 26px 0; }
   .contrib-list .subtitle {
-    color: #7D5AB5;
+    color: #343434;
     font-size: 16px;
     margin: 0 0 55px 0; }
   .contrib-list .round-btn {
@@ -876,7 +876,7 @@
     grid-gap: 15px 20px;
     justify-content: center; }
   .contrib-list .single-item {
-    background-color: #7d5ab5;
+    background-color: #343434;
     max-width: 450px;
     overflow: auto;
     padding: 15px;
@@ -996,14 +996,14 @@
   align-items: center;
   width: 100vw; }
   .zig-section.bg-purple {
-    background-color: #7D5AB5;
+    background-color: #343434;
     color: white; }
     .zig-section.bg-purple .zig-container .paragraph-text, .zig-section.bg-purple .zig-container h1 {
       color: #fff; }
   .zig-section .zig-container {
     width: 100vw;
     max-width: 1250px;
-    color: #7D5AB5;
+    color: #343434;
     padding: 80px 0;
     display: grid;
     grid-column-gap: 120px;
@@ -1086,10 +1086,10 @@
         text-align: center; } }
 
 .item-container-section {
-  color: #7D5AB5;
+  color: #343434;
   padding: 85px 0; }
   .item-container-section.bg-purple {
-    background: #7D5AB5;
+    background: #343434;
     color: #fff; }
   .item-container-section .flex-center .round-btn {
     margin-top: 60px;
@@ -1121,10 +1121,10 @@
       grid-gap: 20px; } }
 
 .social-grid-section {
-  color: #7D5AB5;
+  color: #343434;
   padding: 85px 0; }
   .social-grid-section.bg-purple {
-    background: #7D5AB5;
+    background: #343434;
     color: #fff; }
   .social-grid-section .container-title, .social-grid-section .container-subtitle {
     text-align: center; }
@@ -1153,7 +1153,7 @@
 
 .social-column {
   margin: 0 auto 0 auto;
-  color: #7D5AB5; }
+  color: #343434; }
   .social-column .social-card {
     display: flex;
     flex-direction: column;
@@ -1171,9 +1171,9 @@
     margin: 0; }
   .social-column .link {
     text-decoration: none;
-    color: #7D5AB5; }
+    color: #343434; }
     .social-column .link:visited {
-      color: #7D5AB5; }
+      color: #343434; }
     .social-column .link:hover, .social-column .link:focus {
       filter: brightness(110%); }
 
@@ -1284,7 +1284,7 @@
 
 .action-column {
   margin: 20px auto 0 auto;
-  color: #7D5AB5; }
+  color: #343434; }
   .action-column .btn-img {
     margin-left: 10px; }
   .action-column .action-card {
@@ -1353,7 +1353,7 @@
       font-size: 20px;
       margin: 26px 0;
       font-weight: 500;
-      color: #7D5AB5; }
+      color: #343434; }
     .long-text-column .long-text-card p {
       font-size: 16px;
       color: #404040;
@@ -1388,7 +1388,7 @@
     padding: 10px 0 10px 0;
     width: 108px; }
   .merchant-column .lower-half {
-    background: #7D5AB5;
+    background: #343434;
     padding: 13px;
     border-radius: 0 0 8px 8px;
     text-align: center; }
@@ -1434,7 +1434,7 @@
     padding: 10px 0 10px 0;
     width: 108px; }
   .exchange-column .lower-half {
-    background: #7D5AB5;
+    background: #343434;
     padding: 13px;
     border-radius: 0 0 8px 8px; }
     .exchange-column .lower-half h3 {
@@ -1473,7 +1473,7 @@
 #accordion-section {
   padding: 80px 0; }
   #accordion-section h1 {
-    color: #7d5ab5;
+    color: #343434;
     font-size: 35px;
     font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
     line-height: 25px;
@@ -1484,9 +1484,9 @@
     line-height: 25px;
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
-    color: #7d5ab5; }
+    color: #343434; }
   #accordion-section .panel-title {
-    color: #7D5AB5;
+    color: #343434;
     font-weight: bold;
     padding: 10px 55px 10px 46px; }
     #accordion-section .panel-title a {
@@ -1500,9 +1500,9 @@
       #accordion-section .panel-title a.collapsed img {
         transform: rotate(0deg); }
     #accordion-section .panel-title a:visited {
-      color: #7D5AB5; }
+      color: #343434; }
     #accordion-section .panel-title a:hover, #accordion-section .panel-title a:active, #accordion-section .panel-title a:focus {
-      color: #7D5AB5;
+      color: #343434;
       filter: brightness(120%); }
   #accordion-section .panel {
     background: #fff;
@@ -1519,13 +1519,13 @@
     padding: 20px 46px;
     color: #404040; }
     #accordion-section .panel-body a, #accordion-section .panel-body a:visited {
-      color: #7D5AB5; }
+      color: #343434; }
     #accordion-section .panel-body a:hover, #accordion-section .panel-body a:active, #accordion-section .panel-body a:focus {
-      color: #7D5AB5;
+      color: #343434;
       filter: brightness(120%); }
 
 .step-container-section {
-  color: #7D5AB5;
+  color: #343434;
   padding: 85px 0; }
   .step-container-section .flex-center .round-btn {
     margin-top: 60px;
@@ -1580,7 +1580,7 @@
       font-size: 28px;
       text-align: left;
       line-height: 37px;
-      color: #7D5AB5; }
+      color: #343434; }
     .step-section .step-card p {
       grid-area: text;
       max-width: 580px;
@@ -1708,7 +1708,7 @@
   margin: 50px 0 33px 0;
   font-size: 30px;
   font-family: raleway;
-  color: #7D5AB5;
+  color: #343434;
   font-weight: 500; }
 
 .roadmap-grid-container .roadmap-card {
@@ -1751,7 +1751,7 @@
   margin-left: 10px; }
 
 .roadmap-grid-container .roadmap-card .roadmap-author {
-  color: #7D5AB5;
+  color: #343434;
   margin-bottom: 14px; }
 
 .roadmap-grid-container .roadmap-porgress-bar {
@@ -1765,7 +1765,7 @@
   font-size: 20px;
   text-align: left;
   line-height: 37px;
-  color: #7D5AB5;
+  color: #343434;
   font-family: raleway;
   font-weight: 400; }
 
@@ -1856,7 +1856,7 @@
 
 .purple {
   margin: 0;
-  background-color: #7D5AB5; }
+  background-color: #343434; }
 
 .grey {
   margin: 0;
@@ -1870,7 +1870,7 @@
   padding: 80px 20px; }
 
 .article .article-title {
-  color: #7D5AB5;
+  color: #343434;
   font-family: raleway;
   font-size: 40px;
   margin-bottom: 26px;
@@ -2606,7 +2606,7 @@ a:hover, a:active, a:focus, a:visited {
   justify-content: space-between; }
 
 .cf-proposal-title {
-  color: #7d5ab5;
+  color: #343434;
   font-family: raleway;
   display: flex;
   align-items: center;

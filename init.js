@@ -53,3 +53,7 @@ app.get('/privacy-policy',function(req,res) {
 app.get('/terms-of-use',function(req,res) {
   res.sendFile(path.join(__dirname +'/website'+ '/terms-of-use.html'));
 })
+
+app.get('/getting-started',function(req,res) {
+  res.sendFile(path.join(__dirname +'/website'+ '/getting-started.html'));
+})
