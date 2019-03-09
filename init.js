@@ -58,5 +58,5 @@ app.get('/getting-started',function(req,res) {
   res.sendFile(path.join(__dirname +'/website'+ '/getting-started.html'));
 })
 app.get('/whitepaper',function(req,res){
-  res.sendFile(path.join(__dirname +'/website'+ '/Obscure_Whitepaper.pdf'));
+  res.sendFile(path.join(__dirname +'/website/Obscure_Whitepaper.pdf'));
 })
