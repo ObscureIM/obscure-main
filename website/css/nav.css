@@ -1519,9 +1519,9 @@
     padding: 20px 46px;
     color: #404040; }
     #accordion-section .panel-body a, #accordion-section .panel-body a:visited {
-      color: #343434; }
+      color: #337ab7; }
     #accordion-section .panel-body a:hover, #accordion-section .panel-body a:active, #accordion-section .panel-body a:focus {
-      color: #343434;
+      color: #337ab7;
       filter: brightness(120%); }
 
 .step-container-section {
